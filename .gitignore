@@ -14,6 +14,6 @@ out
 /typescript/baseDAO/yarn-error.log
 /typescript/baseDAO/dist
 
-# generated ligo
-/src/implementation.mligo
-/src/implementation_storage.mligo
+# generated ligo - not ignoring in branch for benchmarks so we can run LSP requests right after cloning
+# /src/implementation.mligo
+# /src/implementation_storage.mligo
